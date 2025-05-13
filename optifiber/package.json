@@ -12,8 +12,10 @@
   "dependencies": {
     "@googlemaps/markerclusterer": "^2.5.3",
     "@vis.gl/react-google-maps": "^1.4.0",
+    "bit": "^1.0.20",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "mongodb": "^6.16.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
@@ -30,6 +32,6 @@
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.12",
     "globals": "^15.9.0",
-    "vite": "^5.4.8"
+    "vite": "^5.4.19"
   }
 }
